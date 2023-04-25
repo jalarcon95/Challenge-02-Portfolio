@@ -3,3 +3,9 @@
     margin: 0;
     padding: 0;
 }
+
+:root {
+    --primary: rgb(91, 168, 251) ;
+    --second: rgb(20, 13, 225) ;
+    --background: rgb(199, 199, 199) ;
+}

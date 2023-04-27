@@ -15,6 +15,10 @@ body {
     background-color: var(--background);
 }
 
+section {
+    padding: 30px;
+}
+
 header {
     padding: 20px 35px;
     background-color: var(--second);
@@ -56,6 +60,22 @@ header nav ul li a:hover {
     font-weight: bold;
     border-radius: 15px;
     text-shadow: 0 0 15px var(--primary);
+}
+
+.hero {
+    background-image: url('../images/orlando-skyline.jpg');
+    height: 220px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 80%;
+}
+
+.hero h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: var(--primary);
+    float: left;
+    background-color: var(--second);
 }
 
 .photo {

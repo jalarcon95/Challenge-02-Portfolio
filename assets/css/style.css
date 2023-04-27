@@ -205,3 +205,48 @@ header nav ul li a:hover {
 .coming-soon:hover {
     opacity: 75%;
 }
+
+@media screen and (max-width: 992px) {
+    header {
+        padding-bottom: 0;
+        justify-content: center;
+        position: relative;
+    }
+
+    header h1 {
+        width:100%;
+        text-align: center; 
+    }
+
+    header nav ul {
+        margin-top: 20px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    header nav ul li a {
+        font-size: 20px;
+    }
+
+    .section-title {
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    section {
+        padding: 30px 15px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .section-title {
+        width: 95%;
+    }
+
+    .section p {
+        width: 100%;
+    }
+}
+
+

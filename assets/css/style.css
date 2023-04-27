@@ -83,3 +83,125 @@ header nav ul li a:hover {
     height: auto;
     padding-left: 2%;
 }
+
+.section {
+    background-color: var(--second);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: 30px;
+    color: var(--primary);
+    margin: 0 auto 0 auto;
+    padding-right: 15px;
+    width: 10%;
+    text-align: end;
+    border-right: var(--primary) solid 3px;
+}
+
+.section-title2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: 30px;
+    color: var(--primary);
+    margin: 0 auto 0 auto;
+    width: 10%;
+    text-align: end;
+    height:1000px;
+}
+
+.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    width: 90%;
+}
+
+.flex-row2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    width: 80%;
+    border-left: var(--primary) solid 3px;
+}
+
+.section p, .section a {
+    line-height: 1,5;
+    color: var(--primary);
+    width: 80%;
+    margin: 0 auto;
+    font-size: 30px;
+    text-align: cener;
+    padding: 0 15px 0 15px;
+}
+
+.flex-row2 p {
+    display: inline-block;
+    text-align: start;
+    background-color:var(--background);
+    width: 50%;
+    position: absolute;
+    bottom: 10%;
+    left: 2%;
+}
+
+.challenge-01 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    height: 650px;
+    width: 100%;
+}
+
+.future-projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    flex-direction: row;
+    width: 100%;
+}
+
+.horiseon {
+    background-image: url("../images/horiseon-screenshot.png");
+    background-size: cover;
+    width: 95%;
+    height: 600px;
+    border: var(--primary) 5px solid;
+    position: relative;
+}
+
+.horiseon:hover {
+    opacity: 75%;
+}
+
+.coming-soon {
+    background-image: url("../images/placeholder-coming-soon.jpg");
+    background-size: cover;
+    width: 46%;
+    height: 250px;
+    margin-bottom: 2%;
+    margin-right: 0.5%;
+    margin-left: 1%;
+    border: var(--primary) 5px solid;
+    position: relative;
+}
+
+.coming-soon:hover {
+    opacity: 75%;
+}

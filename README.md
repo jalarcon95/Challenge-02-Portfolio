@@ -31,6 +31,8 @@ In this challenge, I was tasked with creating a functioning, online portfolio th
 
 ## Website Link
 
+https://jalarcon95.github.io/Challenge-02-Portfolio/
+
 ## Screenshot
 
-![screenshot](/assets/images/Challenge-02-porftolio-screenshot.png)
+![screenshot](/assets/images/challenge-02-portfolio-screenshot.png)

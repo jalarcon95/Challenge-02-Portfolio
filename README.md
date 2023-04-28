@@ -33,4 +33,4 @@ In this challenge, I was tasked with creating a functioning, online portfolio th
 
 ## Screenshot
 
-![screenshot](./Assets/images/Challenge-02-porftolio-screenshot.png)
+![screenshot](/assets/images/Challenge-02-porftolio-screenshot.png)

@@ -68,7 +68,7 @@ header nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('../images/orlando-skyline.jpg');
+    background-image: url('../Images/orlando-skyline.jpg');
     height: 220px;
     background-size: cover;
     background-attachment: fixed;
@@ -186,7 +186,7 @@ header nav ul li a:hover {
 }
 
 .horiseon {
-    background-image: url("../images/horiseon-screenshot.png");
+    background-image: url("../Images/horiseon-screenshot.png");
     background-size: cover;
     width: 95%;
     height: 600px;
@@ -199,7 +199,7 @@ header nav ul li a:hover {
 }
 
 .coming-soon {
-    background-image: url("../images/placeholder-coming-soon.jpg");
+    background-image: url("../Images/placeholder-coming-soon.jpg");
     background-size: cover;
     width: 46%;
     height: 250px;

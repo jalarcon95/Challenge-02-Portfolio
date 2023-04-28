@@ -11,7 +11,7 @@
 }
 
 body {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: var(--second);
 }
 
@@ -85,7 +85,7 @@ header nav ul li a:hover {
 }
 
 .photo {
-    width:18%;
+    width:15%;
     height: auto;
     padding-left: 2%;
 }

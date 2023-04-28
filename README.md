@@ -35,4 +35,4 @@ https://jalarcon95.github.io/Challenge-02-Portfolio/
 
 ## Screenshot
 
-![screenshot](/assets/images/challenge-02-portfolio-screenshot.png)
+![screenshot](/assets/Images/challenge-02-portfolio-screenshot.png)

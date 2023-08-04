@@ -199,7 +199,7 @@ header nav ul li a:hover {
 }
 
 .dynamic-dishes {
-    background-image: url("../Images/placeholder-coming-soon.jpg");
+    background-image: url("../Images/dynamic-dishes.png");
     background-size: cover;
     width: 46%;
     height: 250px;

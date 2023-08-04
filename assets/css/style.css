@@ -198,6 +198,18 @@ header nav ul li a:hover {
     opacity: 75%;
 }
 
+.dynamic-dishes {
+    background-image: url("../Images/placeholder-coming-soon.jpg");
+    background-size: cover;
+    width: 46%;
+    height: 250px;
+    margin-bottom: 2%;
+    margin-right: 0.5%;
+    margin-left: 1%;
+    border: var(--primary) 5px solid;
+    position: relative;
+}
+
 .coming-soon {
     background-image: url("../Images/placeholder-coming-soon.jpg");
     background-size: cover;
@@ -208,6 +220,10 @@ header nav ul li a:hover {
     margin-left: 1%;
     border: var(--primary) 5px solid;
     position: relative;
+}
+
+.dynamic-dishes:hover {
+    opacity: 75%;
 }
 
 .coming-soon:hover {
